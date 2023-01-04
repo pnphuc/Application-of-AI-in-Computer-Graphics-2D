@@ -1,0 +1,15 @@
+Group 4 - DATA:
+
+Danh sách các link data:
+
+1. 400 images from CMP Facades dataset. (31MB)
+	- Link: https://mega.nz/#!H0AmER7Y!pBHcH4M11eiHBmJEWvGr-E_jxK4jluKBUlbfyLSKgpY
+
+2. 2975 images from the Cityscapes training set. (113M)
+	- Link: https://mega.nz/#!K1hXlbJA!rrZuEnL3nqOcRhjb-AnSkK0Ggf9NibhDymLOkhzwuQk
+
+3. 1096 training images scraped from Google Maps (246M)
+	- Link: https://mega.nz/#!7oxklCzZ!8fRZoF3jMRS_rylCfw2RNBeewp4DFPVE_tSCjCKr-TI
+
+4. 50k training images from UT Zappos50K dataset. Edges are computed by HED edge detector + post-processing. (2.2GB)
+	- Link: https://mega.nz/#!u9pnmC4Q!2uHCZvHsCkHBJhHZ7xo5wI-mfekTwOK8hFPy0uBOrb4

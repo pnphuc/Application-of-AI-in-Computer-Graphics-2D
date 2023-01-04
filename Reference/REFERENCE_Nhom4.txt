@@ -1,0 +1,9 @@
+Group 4 - Reference:
+
+Danh sách các file PDF:
+
+1. Image-to-Image Translation with Conditional Adversarial Networks.pdf
+	- Link: https://arxiv.org/pdf/1611.07004.pdf
+
+2. PROGRESSIVE GROWING OF GANS FOR IMPROVED.pdf
+	- Link: https://research.nvidia.com/sites/default/files/pubs/2017-10_Progressive-Growing-of/karras2018iclr-paper.pdf
